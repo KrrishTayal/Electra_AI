@@ -8,3 +8,4 @@ google-generativeai==0.3.2
 numpy==1.26.4
 scikit-learn==1.4.0
 gunicorn==21.2.0
+Markdown==3.7
